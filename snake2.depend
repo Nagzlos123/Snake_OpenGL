@@ -1,0 +1,360 @@
+# depslib dependency file v1.0
+1528022322 source:c:\cpp\snake2\main.c
+	"main.h"
+	"tekstury.h"
+	"sfera.h"
+	"snake.h"
+	<time.h>
+
+1528022322 c:\cpp\snake2\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"tekstury.h"
+
+1528008880 c:\cpp\snake2\tekstury.h
+	<windows.h>
+	<gl/gl.h>
+	"include/png.h"
+
+1522413671 source:c:\cpp\snake2\tekstury.c
+	"tekstury.h"
+
+1244151612 c:\cpp\snake2\include\png.h
+	"zlib.h"
+	"pngconf.h"
+	<crtdbg.h>
+
+1121657208 c:\cpp\snake2\include\zlib.h
+	"zconf.h"
+
+1121877626 c:\cpp\snake2\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1244151612 c:\cpp\snake2\include\pngconf.h
+	"pngusr.h"
+	"config.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<sys/types.h>
+	<setjmp.h>
+	<strings.h>
+	<string.h>
+	<stdlib.h>
+	<fp.h>
+	<math.h>
+	<m68881.h>
+	<mem.h>
+	<alloc.h>
+	<malloc.h>
+	<time.h>
+	<dos.h>
+
+1528022418 source:c:\cpp\snake2\sfera.c
+	"main.h"
+	"tekstury.h"
+	"sfera.h"
+
+1528022418 c:\cpp\snake2\sfera.h
+	"snake.h"
+
+1528022322 c:\cpp\snake2\snake.h
+	"main.h"
+
+1528022468 source:c:\cpp\snake2\snake.c
+	"snake.h"
+	"sfera.h"
+
+1534106584 source:c:\users\user\desktop\snake2 kontynu³acja\main.c
+	"main.h"
+	"tekstury.h"
+	"sfera.h"
+	"snake.h"
+	<time.h>
+
+1534104322 c:\users\user\desktop\snake2 kontynu³acja\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"tekstury.h"
+
+1534100619 c:\users\user\desktop\snake2 kontynu³acja\tekstury.h
+	<windows.h>
+	<gl/gl.h>
+	"include/png.h"
+
+1244151612 c:\users\user\desktop\snake2 kontynu³acja\include\png.h
+	"zlib.h"
+	"pngconf.h"
+	<crtdbg.h>
+
+1121657208 c:\users\user\desktop\snake2 kontynu³acja\include\zlib.h
+	"zconf.h"
+
+1121877626 c:\users\user\desktop\snake2 kontynu³acja\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1244151612 c:\users\user\desktop\snake2 kontynu³acja\include\pngconf.h
+	"pngusr.h"
+	"config.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<sys/types.h>
+	<setjmp.h>
+	<strings.h>
+	<string.h>
+	<stdlib.h>
+	<fp.h>
+	<math.h>
+	<m68881.h>
+	<mem.h>
+	<alloc.h>
+	<malloc.h>
+	<time.h>
+	<dos.h>
+
+1528022418 c:\users\user\desktop\snake2 kontynu³acja\sfera.h
+	"snake.h"
+
+1528022322 c:\users\user\desktop\snake2 kontynu³acja\snake.h
+	"main.h"
+
+1528022418 source:c:\users\user\desktop\snake2 kontynu³acja\sfera.c
+	"main.h"
+	"tekstury.h"
+	"sfera.h"
+
+1533032470 source:c:\users\user\desktop\snake2 kontynu³acja\snake.c
+	"snake.h"
+	"sfera.h"
+
+1522413671 source:c:\users\user\desktop\snake2 kontynu³acja\tekstury.c
+	"tekstury.h"
+
+1539457200 source:c:\cpp\snake2 kontynu³acja\main.c
+	"main.h"
+	"tekstury.h"
+	"sfera.h"
+	"snake.h"
+	<time.h>
+
+1539457983 c:\cpp\snake2 kontynu³acja\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"tekstury.h"
+
+1539455628 c:\cpp\snake2 kontynu³acja\tekstury.h
+	<windows.h>
+	<gl/gl.h>
+	"include/png.h"
+
+1244151612 c:\cpp\snake2 kontynu³acja\include\png.h
+	"zlib.h"
+	"pngconf.h"
+	<crtdbg.h>
+
+1121657208 c:\cpp\snake2 kontynu³acja\include\zlib.h
+	"zconf.h"
+
+1121877626 c:\cpp\snake2 kontynu³acja\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1244151612 c:\cpp\snake2 kontynu³acja\include\pngconf.h
+	"pngusr.h"
+	"config.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<sys/types.h>
+	<setjmp.h>
+	<strings.h>
+	<string.h>
+	<stdlib.h>
+	<fp.h>
+	<math.h>
+	<m68881.h>
+	<mem.h>
+	<alloc.h>
+	<malloc.h>
+	<time.h>
+	<dos.h>
+
+1539455628 c:\cpp\snake2 kontynu³acja\sfera.h
+	"snake.h"
+
+1528022322 c:\cpp\snake2 kontynu³acja\snake.h
+	"main.h"
+
+1539456294 source:c:\cpp\snake2 kontynu³acja\sfera.c
+	"main.h"
+	"tekstury.h"
+	"sfera.h"
+
+1539455628 source:c:\cpp\snake2 kontynu³acja\snake.c
+	"snake.h"
+	"sfera.h"
+
+1522413671 source:c:\cpp\snake2 kontynu³acja\tekstury.c
+	"tekstury.h"
+
+1540104997 source:c:\cpp\snake2 cpp\boss.cpp
+
+1540111086 source:c:\cpp\snake2 cpp\main.cpp
+	"main.h"
+	"tekstury.h"
+	"sfera.h"
+	"snake.h"
+	<time.h>
+
+1540111145 c:\cpp\snake2 cpp\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"tekstury.h"
+
+1540111054 c:\cpp\snake2 cpp\tekstury.h
+	<windows.h>
+	<gl/gl.h>
+	"include/png.h"
+
+1244148012 c:\cpp\snake2 cpp\include\png.h
+	"zlib.h"
+	"pngconf.h"
+	<crtdbg.h>
+
+1121653608 c:\cpp\snake2 cpp\include\zlib.h
+	"zconf.h"
+
+1121874026 c:\cpp\snake2 cpp\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1244148012 c:\cpp\snake2 cpp\include\pngconf.h
+	"pngusr.h"
+	"config.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<sys/types.h>
+	<setjmp.h>
+	<strings.h>
+	<string.h>
+	<stdlib.h>
+	<fp.h>
+	<math.h>
+	<m68881.h>
+	<mem.h>
+	<alloc.h>
+	<malloc.h>
+	<time.h>
+	<dos.h>
+
+1540111201 c:\cpp\snake2 cpp\sfera.h
+	"snake.h"
+
+1540111260 c:\cpp\snake2 cpp\snake.h
+	"main.h"
+
+1540111201 source:c:\cpp\snake2 cpp\sfera.cpp
+	"main.h"
+	"tekstury.h"
+	"sfera.h"
+
+1540111367 source:c:\cpp\snake2 cpp\snake.cpp
+	"snake.h"
+	"sfera.h"
+
+1540111053 source:c:\cpp\snake2 cpp\tekstury.cpp
+	"tekstury.h"
+
+1540101397 source:c:\users\media\desktop\projekty\snake2 maszyna stanów\boss.cpp
+
+1540107601 source:c:\users\media\desktop\projekty\snake2 maszyna stanów\sfera.cpp
+	"main.h"
+	"tekstury.h"
+	"sfera.h"
+
+1540107545 c:\users\media\desktop\projekty\snake2 maszyna stanów\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"tekstury.h"
+
+1540107454 c:\users\media\desktop\projekty\snake2 maszyna stanów\tekstury.h
+	<windows.h>
+	<gl/gl.h>
+	"include/png.h"
+
+1244144412 c:\users\media\desktop\projekty\snake2 maszyna stanów\include\png.h
+	"zlib.h"
+	"pngconf.h"
+	<crtdbg.h>
+
+1121650008 c:\users\media\desktop\projekty\snake2 maszyna stanów\include\zlib.h
+	"zconf.h"
+
+1121870426 c:\users\media\desktop\projekty\snake2 maszyna stanów\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1244144412 c:\users\media\desktop\projekty\snake2 maszyna stanów\include\pngconf.h
+	"pngusr.h"
+	"config.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<sys/types.h>
+	<setjmp.h>
+	<strings.h>
+	<string.h>
+	<stdlib.h>
+	<fp.h>
+	<math.h>
+	<m68881.h>
+	<mem.h>
+	<alloc.h>
+	<malloc.h>
+	<time.h>
+	<dos.h>
+
+1540107601 c:\users\media\desktop\projekty\snake2 maszyna stanów\sfera.h
+	"snake.h"
+
+1540107660 c:\users\media\desktop\projekty\snake2 maszyna stanów\snake.h
+	"main.h"
+
+1540107767 source:c:\users\media\desktop\projekty\snake2 maszyna stanów\snake.cpp
+	"snake.h"
+	"sfera.h"
+
+1540107453 source:c:\users\media\desktop\projekty\snake2 maszyna stanów\tekstury.cpp
+	"tekstury.h"
+
+1546471830 source:c:\users\media\desktop\projekty\snake2 maszyna stanów\maszyna_stanow.cpp
+	"maszyna_stanow.h"
+
+1546471182 c:\users\media\desktop\projekty\snake2 maszyna stanów\maszyna_stanow.h
+
+1614776972 source:c:\users\media\desktop\projekty\snake2 maszyna stanów\main.cpp
+	"main.h"
+	"tekstury.h"
+	"sfera.h"
+	"snake.h"
+	<time.h>
+
