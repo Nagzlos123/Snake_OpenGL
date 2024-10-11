@@ -5,6 +5,7 @@ A large and complex 2D computer game project using OpenGL. Unlike most games of 
 snake moves in coordinates on a plane and turns are calculated using trigonometric functions . 
 The application consists of 14 files linked by dependencies implementing the State Machine design pattern.
 ## Video
+![](GitHub_images/Snake.gif)
 
 ## Images
 ![](GitHub_images/01_MainMenu.png)
